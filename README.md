@@ -1,6 +1,10 @@
+ 很好的关于书的目录格式：[原始网页点击访问](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+
 JavaScript Garden
 =================
- 很好的关于书的目录格式：[原始网页点击访问](http://bonsaiden.github.io/JavaScript-Garden/zh/)
+
+ 
+ 
 **JavaScript Garden** is a growing collection of documentation about the most 
 quirky parts of the JavaScript programming language. It gives advice to 
 avoid common mistakes, subtle bugs, as well as performance issues and bad 
